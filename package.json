@@ -19,7 +19,7 @@
   },
   "keywords": ["React", "Landing Page"],
   "author": "Dev Nasfam",
-  "homepage": "https://nasfam-recipe.vercel.app/",
+  "homepage": "https://nasfam-recipe.vercel.app",
   "repository": {
     "type": "git",
     "url": "https://github.com/devnasfam/nasfam-recipe.git"
