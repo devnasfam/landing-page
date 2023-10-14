@@ -38,7 +38,7 @@ function Footer(){
              <div className="social_head">
               <h4>Send Us An Email</h4>
              </div>
-             <div class="inputs_cont">
+             <div className="inputs_cont">
                 <input 
                 type="email"
                 placeholder="Email Address"
