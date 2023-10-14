@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "React Landing Page",
   "private": true,
+  "main": "index.js",  // Added main field
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -23,10 +24,5 @@
     "type": "git",
     "url": "https://github.com/devnasfam/nasfam-recipe.git"
   },
-  "license": "MIT",
-  "meta": {
-    "viewport": "width=device-width, initial-scale=1.0, user-scalable=no",
-    "robots": "index, follow",
-    "theme-color": "#ffffff"
-  }
+  "license": "MIT"
 }
