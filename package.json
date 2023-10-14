@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React Landing Page",
   "private": true,
-  "main": "index.js",  // Added main field
+  "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
